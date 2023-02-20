@@ -9,6 +9,7 @@ public class Manager {
     }
 
     public void Manager(int limit) {
+
         this.limit = limit;
     }
 
