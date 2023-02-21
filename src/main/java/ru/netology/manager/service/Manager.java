@@ -8,10 +8,6 @@ public class Manager {
         this.limit = 10;
     }
 
-    public void Manager(int limit) {
-
-        this.limit = limit;
-    }
 
     public void addFilm(String film) {
         String[] tmp = new String[films.length + 1];
